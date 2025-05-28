@@ -1,9 +1,8 @@
 # File with constants
-URBAN_ROUTES_URL = "https://cnt-58727698-e66a-4647-b79d-f7e57f2963a1.containerhub.tripleten-services.com"
+URBAN_ROUTES_URL = "https://cnt-bc24ab96-0566-4306-83af-19add2774cb4.containerhub.tripleten-services.com"
 ADDRESS_FROM = 'East 2nd Street, 601'
-ADDRESS_TO	= '1300 1st St'
+ADDRESS_TO = '1300 1st St'
 PHONE_NUMBER = '+1 123 123 12 12'
-CARD_NUMBER	= '1234 5678 9100'
-CARD_CODE =	'1111'
+CARD_NUMBER = '1234 5678 9100'
+CARD_CODE = '1111'
 MESSAGE_FOR_DRIVER = 'Stop at the juice bar, please'
-
