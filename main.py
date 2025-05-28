@@ -22,27 +22,31 @@ class TestUrbanRoutes:
 
     def test_fill_phone_number(self):
         # Add in S8
+        print('function created for phone number')
         pass
 
     def test_fill_card(self):
         # Add in S8
+        print('function created for fill the card')
         pass
 
     def test_comment_for_driver(self):
         # Add in S8
+        print('function created for comment for driver')
         pass
 
     def test_order_blanket_and_handkerchiefs(self):
         # Add in S8
+        print('function created for order blankets and handkerchiefs')
         pass
 
     def test_order_2_ice_creams(self):
-        number_of_icecream = 0
-        for number_of_icecream in range(3):
+        for number_of_icecream in range(2):
             print("number of ice_cream--->", number_of_icecream)
             # Add in S8
             pass
 
     def test_car_search_model_appears(self):
         # Add in S8
+        print('function created for car search model appears')
         pass
